@@ -1,3 +1,3 @@
 export default {
-  baseApiUrl: 'https://api.realworld.io/api/',
+  baseApiUrl: 'http://localhost:3000/api',
 };
